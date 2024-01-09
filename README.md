@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Completed Projects:
+Completed/Contributed Projects:
 
 
 🌱 I’m currently learning ...
