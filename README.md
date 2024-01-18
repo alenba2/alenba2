@@ -5,7 +5,7 @@ My Projects:
 
 I'm proficient in ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,springboot,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,spring,java,html,css)](https://skillicons.dev)
 
 🌱 I’m currently learning ...
 
