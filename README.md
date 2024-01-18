@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Projects:
-<img src =https://icons8.com/icon/71257/angularjs> </img>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 🌱 I’m currently learning ...
 
