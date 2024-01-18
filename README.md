@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Projects:
-<img src =https://icons8.com/icon/71257/angularjs> < /img>
+<img src =https://icons8.com/icon/71257/angularjs> </img>
 
 🌱 I’m currently learning ...
 
