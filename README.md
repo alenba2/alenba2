@@ -10,7 +10,7 @@ Grocery Store Website (https://github.com/alenba2/SJSU_website)
 
 I'm proficient in ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,spring,java,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,spring,java,html,css,nodejs,php)](https://skillicons.dev)
 
 🌱 I’m currently learning ...
 
