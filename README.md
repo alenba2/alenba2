@@ -2,8 +2,9 @@
 
 My Projects:
 
-https://github.com/radix4/idea-plaza
-
+House Estimator Website (https://github.com/alenba2/Wolliz)
+Reddit Clone Website (https://github.com/radix4/idea-plaza)
+Grocery Store Website (https://github.com/alenba2/SJSU_website)
 
 I'm proficient in ...
 
