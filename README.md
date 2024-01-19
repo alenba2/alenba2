@@ -13,7 +13,7 @@ I'm proficient in ...
 
 👯 I’m looking to collaborate on ...
 
-Any web / ML project
+[![My Skills](https://skillicons.dev/icons?i=react,django,spring,nodejs)](https://skillicons.dev) / ML project
 
 <!--
 **alenba2/alenba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
