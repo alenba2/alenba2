@@ -2,6 +2,8 @@
 
 My Projects:
 
+<link src="https://github.com/radix4/idea-plaza">Reddit Clone</link>
+
 
 I'm proficient in ...
 
