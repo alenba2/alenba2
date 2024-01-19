@@ -2,7 +2,7 @@
 
 My Projects:
 
-<link src="https://github.com/radix4/idea-plaza">Reddit Clone</link>
+<link src="https://github.com/radix4/idea-plaza" value="Reddit Clone"></link>
 
 
 I'm proficient in ...
