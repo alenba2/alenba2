@@ -5,11 +5,11 @@ My Projects:
 
 I'm proficient in ...
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,spring,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,django,python,spring,java,html,css,nodejs)](https://skillicons.dev)
 
 🌱 I’m currently learning ...
 
-[![My Skills](https://skillicons.dev/icons?i=angular,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,lua,neovim)](https://skillicons.dev)
 
 👯 I’m looking to collaborate on ...
 
