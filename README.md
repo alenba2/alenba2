@@ -2,7 +2,7 @@
 
 My Projects:
 
-Repository: (https://github.com/alenba2/ai-chatbot-vercel.git)
+ChatGPT Repository: (https://github.com/alenba2/ai-chatbot-vercel.git)
 
 House Estimator Website (https://github.com/alenba2/Wolliz)
 
